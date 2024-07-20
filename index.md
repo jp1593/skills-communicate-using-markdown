@@ -16,7 +16,10 @@ print(total_population)
 
 
 
-
+List: 
+- [X] Homepage
+- [ ] Checkout
+- [ ] Login
 
 
 
